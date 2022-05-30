@@ -1,7 +1,7 @@
 const tela = document.querySelector('canvas');
 const pincel = tela.getContext('2d');
 
-pincel.fillStyle = 'green';
+pincel.fillStyle = 'darkgreen';
 pincel.fillRect(0, 0, 350, 300)
 
 pincel.fillStyle = 'black';
